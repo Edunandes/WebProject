@@ -1,0 +1,60 @@
+
+/* about.ejs 
+Eduardo Fernandes 
+ID 301290717 
+May 31, 2023 
+*/
+
+
+
+
+body{
+    background-color: rgb(216, 203, 187);
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 60px;
+      
+}
+
+.text {
+    
+    padding: 0px;
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 0;
+}
+
+.text h1 {
+    font-size: 24px;
+    color:#000204;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+  
+.text p {
+    color: #000204;
+    font-size: 20px;
+    line-height: 1.5;
+}  
+ 
+.container-image
+{
+text-align: center;
+padding-top: 25px;
+      
+}
+
+.logo{
+    width: 80px;
+    height: 80px;
+  }
+
+  .photo{
+    width: 200px;
+    height: auto;
+    border-radius: 80px;
+  }
